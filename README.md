@@ -1,6 +1,6 @@
-# 躍健健康 App 下載頁面
+# 躍齡健康 App 下載頁面
 
-這是一個靜態網站專案，用於提供躍健健康應用程式的下載連結。使用者可以透過掃描 QR Code 或直接點擊下載按鈕來下載應用程式。
+這是一個靜態網站專案，用於提供躍齡健康應用程式的下載連結。使用者可以透過掃描 QR Code 或直接點擊下載按鈕來下載應用程式。
 
 ## 功能特色
 
@@ -55,7 +55,7 @@ git init
 git add .
 
 # 提交變更
-git commit -m "feat: 初始專案 - 躍健健康 App 下載頁面"
+git commit -m "feat: 初始專案 - 躍齡健康 App 下載頁面"
 
 # 新增遠端 Repository（請替換為您的 Repository URL）
 git remote add origin https://github.com/[username]/[repository-name].git
@@ -122,7 +122,7 @@ new QRCode(document.getElementById("qrcode"), {
 
 ## 授權
 
-© 2024 躍健健康. All rights reserved.
+© 2024 躍齡健康. All rights reserved.
 
 ## 聯絡資訊
 
