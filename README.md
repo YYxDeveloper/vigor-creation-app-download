@@ -36,7 +36,14 @@
 3. 進入 Repository 的 **Settings** → **Pages**
 4. 在 **Source** 選擇 `main` branch（或您使用的分支）
 5. 點擊 **Save**
-6. 等待幾分鐘後，您的網站將在 `https://[username].github.io/[repository-name]` 上線
+6. 等待幾分鐘後，您的網站將在以下網址上線：
+   - **完整 URL 格式**：`https://[username].github.io/[repository-name]`
+   - **範例**：如果您的 GitHub 用戶名是 `YYxDeveloper`，Repository 名稱是 `vigor-app-download`，則完整 URL 為：
+     ```
+     https://YYxDeveloper.github.io/vigor-app-download
+     ```
+   - **主頁面**：`https://YYxDeveloper.github.io/vigor-app-download/index.html` 或 `https://YYxDeveloper.github.io/vigor-app-download/`
+   - **跳轉頁面**：`https://YYxDeveloper.github.io/vigor-app-download/redirect.html`
 
 ### 方法二：透過 Git 命令列
 
